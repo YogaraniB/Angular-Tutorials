@@ -31,7 +31,7 @@ import { Component, OnInit } from '@angular/core';
 
 
       <button (click)="onClick($event)">Greet</button>
-      <button (click)="greeting = 'Welcome Vishwas'">Greet Vishwas</button> 
+      <button (click)="greeting = 'Welcome Yogarani'">Greet Vishwas</button> 
       <h2>{{greeting}}</h2>
 
 
