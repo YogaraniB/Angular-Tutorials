@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
     <div>
       <h2>Welcome {{name}}</h2>
       <h2>{{2+2}}</h2>
+      <h1>welcome</h1>
       <h2>{{"Welcome " + name}}</h2>
       <h2>{{name.length}}</h2>
       <h2>{{name.toUpperCase()}}</h2>
